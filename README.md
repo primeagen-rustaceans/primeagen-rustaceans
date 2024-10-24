@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya
 - 👀 I’m open for collabration on projects.
 - 🌱 I’m looking for remote work opportunities in Golang/Rust/React[FullstackDeveloper].
-- 💞️ I’m open to collaborate on JS, Rust, Golang
+- 💞️ Rust, Golang, Javascript, Java. Each bring their own talent/skills to the project.
 - 📫 How to reach me on twitter @adi_poddar
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=primeagen-rustaceans)](https://github.com/anuraghazra/github-readme-stats)
 <!---
